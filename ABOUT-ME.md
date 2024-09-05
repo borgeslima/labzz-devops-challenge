@@ -17,7 +17,7 @@ Durante esses quase 17 anos na área aprendi diversas áreas na computação, de
 
 ## Hobbies
 
-Atualmente meu Hobbie é construir módulos terraform e providers em GO Lang na comunidade Quarkus ao qual sou fundador junto com minha esposa [Quarkus-labs](https://github.com/quarks-labs), addons para kubernetes. Quando posso assistir séries ou jogar algum jogo que me faça pensar, ou me irrite a ponto de desligar e fazer outra coisa que me dê prazer.
+Atualmente meu Hobbie é construir módulos terraform e providers em GO Lang na comunidade Quarkus ao qual sou fundador junto com minha esposa [Quarks-labs](https://github.com/quarks-labs), addons para kubernetes. Quando posso assistir séries ou jogar algum jogo que me faça pensar, ou me irrite a ponto de desligar e fazer outra coisa que me dê prazer.
 
 ## Sobre o desafio
 
