@@ -2,7 +2,7 @@
 
 Bem-vindo, análisador do arquiteto de automação e mestre de API operacional! Obrigado por me avaliar para a posição de Engenheiro DevOps na Labbz! Estou pronto pra Labzzzzzzzzar com tudo que o mercado oferece de melhor, principalmente usando inteligência artificial! 🧠☁️🚀
 
-Durante o desafio fui meticuloso, cuidadoso e atento aos detalhes para poder extrair todo o QI que é mais de (8000!). Mas infelizmente ainda não está pronto, nesta página você pode acompanhar evolução arquitetural do que já consegui entregar nesses 3 dias em que fiquei sabendo da vaga. Acredito que consegui evoluir bem graças ao apoio da comunidade que criei junto com minha esposa [Quarkus-labs](https://github.com/quarks-labs). Inclusive o desafio foi interessante para trazer mais módulos terraform que não tínhamos na nossa pequena comunidade. Inclusive ao ver o rostinho dela nos commit's, foi sempre eu, ela ainda té uma jovem padawan (Logo ela estará brilhando na área de infraestrutura) 🥷
+Durante o desafio fui meticuloso, cuidadoso e atento aos detalhes para poder extrair todo o QI que é mais de (8000!). Mas infelizmente ainda não está pronto, nesta página você pode acompanhar evolução arquitetural do que já consegui entregar nesses 3 dias em que fiquei sabendo da vaga. Acredito que consegui evoluir bem graças ao apoio da comunidade que criei junto com minha esposa [Quarks-labs](https://github.com/quarks-labs). Inclusive o desafio foi interessante para trazer mais módulos terraform que não tínhamos na nossa pequena comunidade. Inclusive ao ver o rostinho dela nos commit's, foi sempre eu, ela ainda té uma jovem padawan (Logo ela estará brilhando na área de infraestrutura) 🥷
 
 # DEVOPS CHALLENGE
 
