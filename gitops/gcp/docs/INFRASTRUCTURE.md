@@ -1,0 +1,12 @@
+# GCP WELL-ARCHITECTED SOLUTION SAMPLE SCALABLE WITH GKE-AUTO-PILOT
+
+![Visualizar em alta resolução](img/LABZZ-SRP-v3.svg)
+
+# GCP WELL-ARCHITECTED SOLUTION SAMPLE WITH GKE-STANDARD
+
+![Visualizar em alta resolução](img/LABZZ-SRP-v2.svg)
+
+
+# GCP WELL-ARCHITECTED SOLUTION MULTI CLUSTER
+
+![Visualizar em alta resolução](img/LABZZ-SRP.svg)

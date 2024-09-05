@@ -1,0 +1,7 @@
+apiVersion: v2
+name: flowise-config
+description: Configuração do CA RDS
+type: application
+icon: "https://placehold.co/50x50/EEE/31343C"
+version: 1.0.1
+appVersion: 1.0.1

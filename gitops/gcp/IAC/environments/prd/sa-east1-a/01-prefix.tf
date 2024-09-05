@@ -1,0 +1,4 @@
+resource "random_string" "sufix" {
+  length  = 3
+  special = false
+}

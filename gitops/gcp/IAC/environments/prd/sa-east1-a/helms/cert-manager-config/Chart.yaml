@@ -1,0 +1,7 @@
+apiVersion: v2
+name: cert-manager-config
+description: Configuração do cluster Issuer
+type: application
+icon: "https://placehold.co/50x50/EEE/31343C"
+version: 0.1.3
+appVersion: 0.1.3

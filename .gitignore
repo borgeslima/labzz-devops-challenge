@@ -1,0 +1,5 @@
+.terraform
+.terraform.lock.hcl
+service_account.json
+sensitive.tfvars
+flowise

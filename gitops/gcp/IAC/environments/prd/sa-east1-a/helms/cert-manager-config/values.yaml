@@ -1,0 +1,5 @@
+certManager:
+  clusterIssuer:
+    name: default-letsencrypt
+    email: ti@k8-s.space
+
