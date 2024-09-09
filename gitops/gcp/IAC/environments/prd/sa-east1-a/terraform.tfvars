@@ -164,15 +164,6 @@ private_network = {
   enabled = false
 }
 
-databases = [{
-  name = "labbz"
-}]
-
-users = [{
-  name     = "labbz",
-  password = "labbz@labbz"
-}]
-
 settings = {
   disk_size = "20"
   tier      = "db-f1-micro"
