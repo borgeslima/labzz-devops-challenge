@@ -6,7 +6,7 @@ Olá, me chamo Gabriel Borges, tenho 2 filhos, casado, também sou pastor(não s
 
 ## Carreira
 
-Na minha vida profissional sempre fui ousado, buscando perfeição em tudo que minhas mãos tocar, sempre achei que TOC era uma doença, até descobrir que com ele você consegue ter exelência.
+Na minha vida profissional sempre fui ousado, buscando perfeição em tudo que minhas mãos tocar, sempre achei que TOC era uma doença, até descobrir que com ele você consegue ter excelência.
 
 Atualmente sou Especialista em Infraestrutura Cloud, em especial AWS e GCP, a propósito um eterno estudante uma vez que esses 2 providers não param de lançar maneiras diferentes de fazer infraestrutura, que loucura! 
 
